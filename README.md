@@ -1,10 +1,8 @@
 # Python-SQL Business Analytics Tool
 
-# **Python-SQL Business Analytics Tool**
-
 ## **Overview**
 This project is a command-line application for managing and querying a Yelp-style database, designed to handle user interactions, business reviews, and social connections efficiently. Built with Python and SQL Server, the system allows users to log in, search for businesses, connect with other users, and submit reviews. The application is built with a modular and scalable architecture, ensuring ease of maintenance and extensibility. It employs database querying techniques and robust error handling to provide a smooth user experience.
----
+
 
 ## **Features**
 ### **User Authentication**
