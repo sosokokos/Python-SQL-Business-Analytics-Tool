@@ -31,7 +31,7 @@ This project is a command-line application for managing and querying a Yelp-styl
 - Business ratings and review counts update dynamically
 - Ensures database consistency using triggers and validation
 
-### ** Error Handling**
+### **Error Handling**
 - Prevents invalid inputs and ensures data integrity
 - Automatically corrects minor input errors where possible
 - Gracefully handles database connection issues
